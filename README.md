@@ -5,7 +5,7 @@ Usage:
 
 Download the filter file and execute:  **./filter [input_image] [kernel] [output_image]**
 
-- Additional filters can be created by following the existing format. Sample kernel element values can be found ![here.](https://en.wikipedia.org/wiki/Kernel_(image_processing))
+- Additional filters can be created by following the existing format. Sample kernel element values can be found [here.](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
 *Samples:*
 
